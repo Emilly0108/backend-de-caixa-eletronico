@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Emilly0108/backend-de-caixa-eletronico#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.3.0"
   }
 }
